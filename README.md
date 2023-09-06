@@ -2,6 +2,7 @@
 features:
 🌟add name,number
 🌟Search 
+🌟Sorting Based on the alphabet 
 🌟Edit 
 🌟Delete
 ![image](https://github.com/YasiYaseen/contact-card-using-mysql/assets/99872535/53bba321-2abf-49dd-848c-009fdfe4f2ac)
